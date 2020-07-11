@@ -1,0 +1,23 @@
+{
+  "name": "Radix Studio",
+  "main": "index.html",
+  "version": "0.0.1",
+  "chromium-args" : "--disk-cache-size=1",
+  "window": {
+    "title": "Radix Studio 0.1.0",
+    "icon": "rsicon.png",
+    "toolbar": false,
+    "frame": true,
+    "position": "center",
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false,
+    "resizable" : true
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "scripts": { 
+    "start": "nodewebkit" 
+  }
+}

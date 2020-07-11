@@ -1,0 +1,190 @@
+[
+	{
+		"code": "00",
+		"op": "end"
+	},
+	{
+		"code": "01",
+		"op": "lda_value"
+	},
+	{
+		"code": "02",
+		"op": "lda_address"
+	},
+	{
+		"code": "03",
+		"op": "sta_address"
+	},
+	{
+		"code": "04",
+		"op": "ldy_value"
+	},
+	{
+		"code": "05",
+		"op": "ldy_address"
+	},
+	{
+		"code": "06",
+		"op": "sty_address"
+	},
+	{
+		"code": "07",
+		"op": "ldx_value"
+	},
+	{
+		"code": "08",
+		"op": "ldx_address"
+	},
+	{
+		"code": "09",
+		"op": "stx_address"
+	},
+	{
+		"code": "10",
+		"op": "dey"
+	},
+	{
+		"code": "11",
+		"op": "label"
+	},
+	{
+		"code": "12",
+		"op": "bne"
+	},
+	{
+		"code": "13",
+		"op": "beq"
+	},
+	{
+		"code": "14",
+		"op": "dex"
+	},
+	{
+		"code": "15",
+		"op": "lda_address_x"
+	},
+	{
+		"code": "16",
+		"op": "sta_address_x"
+	},
+	{
+		"code": "17",
+		"op": "lda_address_y"
+	},
+	{
+		"code": "18",
+		"op": "sta_address_y"
+	},
+	{
+		"code": "19",
+		"op": "inx"
+	},
+	{
+		"code": "20",
+		"op": "iny"
+	},
+	{
+		"code": "21",
+		"op": "cmp_address"
+	},
+	{
+		"code": "22",
+		"op": "cmp_value"
+	},
+	{
+		"code": "23",
+		"op": "bpl"
+	},
+	{
+		"code": "24",
+		"op": "bmi"
+	},
+	{
+		"code": "25",
+		"op": "jmp"
+	},
+	{
+		"code": "26",
+		"op": "and_address"
+	},
+	{
+		"code": "27",
+		"op": "and_value"
+	},
+	{
+		"code": "28",
+		"op": "clc"
+	},
+	{
+		"code": "29",
+		"op": "adc_address"
+	},
+	{
+		"code": "30",
+		"op": "adc_value"
+	},
+	{
+		"code": "31",
+		"op": "sbc_address"
+	},
+	{
+		"code": "32",
+		"op": "sbc_value"
+	},
+	{
+		"code": "33",
+		"op": "bcc"
+	},
+	{
+		"code": "34",
+		"op": "bcs"
+	},
+	{
+		"code": "35",
+		"op": "jsr"
+	},
+	{
+		"code": "36",
+		"op": "rts"
+	},
+	{
+		"code": "37",
+		"op": "lda_indirect_y"
+	},
+	{
+		"code": "38",
+		"op": "sta_indirect_y"
+	},
+	{
+		"code": "39",
+		"op": "sec"
+	},
+	{
+		"code": "40",
+		"op": "lsr_a"
+	},
+	{
+		"code": "41",
+		"op": "sed"
+	},
+	{
+		"code": "42",
+		"op": "cld"
+	},
+	{
+		"code": "43",
+		"op": "eor_value"
+	},
+	{
+		"code": "44",
+		"op": "asl_a"
+	},
+	{
+		"code": "45",
+		"op": "eor_address"
+	},
+	{
+		"code": "46",
+		"op": "ldr"
+	}
+]
