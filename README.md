@@ -12,6 +12,10 @@ Radix was a budget entry into the console universe, meaning that they did not ac
 
 Radix used the popular MOS 6502 processor as its CPU, meaning that anyone familiar with 6502 programming can get into Radix game development right away. Radix was powered by the **Radix Video Adapter (RaVA)** chip. Programming a Radix game largely involves interacting with the registers in memory that speak to this chip.
 
+The RaVA sports the following features:
+
+* 96 background tiles -- enough for a full character set, plus background graphics.
+
 **Radix Studio**, a modern IDE used for Radix game development, is included in this archive. RS includes an assembly language editor, and comes equipped with tools that will automatically generate code for sprites, sounds, and game maps.
 
 ![Radix Studio Screenshot](/screen4.png)
