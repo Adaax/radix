@@ -32,3 +32,8 @@ Radix Studio is written in Javascript, using the [NW.js](https://nwjs.io/) frame
 
 * **v0.1.0**:
 	* Windows 64-bit: [zip](http://semioticblocks.com/downloads/radix_studio.zip)
+
+### Instructions
+For **zip** files, extract to any directory on your PC. Click **rs.bat** to launch Radix Studio.
+
+The emulator can be launched from within Radix Studio.
