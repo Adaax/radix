@@ -8,6 +8,6 @@ Radix entered the market just as a glut of competing consoles were stuffing stor
 
 Radix was a budget entry into the console universe, meaning that they did not acquire licenses for any of the big arcade games of the time (a common practice among competitors). As such, all Radix games were developed in-house, and as such it features unique titles that were never made for any other system.
 
-![Radix Screenshot](/screen1.png)
+![Radix Screenshot](/screen2.png)
 
 Radix used the popular MOS 6502 processor as its CPU, meaning that anyone familiar with 6502 programming can get into Radix game development right away.
