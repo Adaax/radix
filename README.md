@@ -30,5 +30,5 @@ Radix Studio is written in Javascript, using the [NW.js](https://nwjs.io/) frame
 
 ## Downloads
 
-* **v0.1.0:
+* **v0.1.0**:
 	* Windows 64-bit: [zip](http://semioticblocks.com/downloads/radix_studio.zip)
