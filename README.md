@@ -25,3 +25,5 @@ The RaVA sports the following features:
 ![Radix Studio Screenshot](/screen4.png)
 
 The **Radix Emulator** is also included, and is a fast, capable emulator that makes Radix games work on modern PCs just as they did on the original console.
+
+Radix Studio is written in Javascript, using the [NW.js](https://nwjs.io/) framework, so it is a standalone application. Radix Emulator was written in Lua
