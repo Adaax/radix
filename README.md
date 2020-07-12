@@ -14,7 +14,11 @@ Radix used the popular MOS 6502 processor as its CPU, meaning that anyone famili
 
 The RaVA sports the following features:
 
-* 96 background tiles -- enough for a full character set, plus background graphics.
+* 96 background tiles - enough for a full character set, plus background graphics
+* 32 sprite tiles
+* 3 screens - you choose which screen to display, and the other two remain cached
+* 64 collision detection checks
+* Sound synthesizer support for three types of sound waves (square, sine, noise)
 
 **Radix Studio**, a modern IDE used for Radix game development, is included in this archive. RS includes an assembly language editor, and comes equipped with tools that will automatically generate code for sprites, sounds, and game maps.
 
