@@ -14,4 +14,4 @@ Radix used the popular MOS 6502 processor as its CPU, meaning that anyone famili
 
 **Radix Studio**, a modern IDE used for Radix game development, is included in this archive. RS includes an assembly language editor, and comes equipped with tools that will automatically generate code for sprites, sounds, and game maps.
 
-![Radix Studio Screenshot](/screen3.png)
+![Radix Studio Screenshot](/screen4.png)
