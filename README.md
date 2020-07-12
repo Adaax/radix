@@ -10,4 +10,4 @@ Radix was a budget entry into the console universe, meaning that they did not ac
 
 ![Radix Screenshot](/screen2.png)
 
-Radix used the popular MOS 6502 processor as its CPU, meaning that anyone familiar with 6502 programming can get into Radix game development right away. Radix was powered by the **Radix Video Adapter (RaVA)** chip. Programming a Radix game largely involves interacting with the register in memory that speak to this chip.
+Radix used the popular MOS 6502 processor as its CPU, meaning that anyone familiar with 6502 programming can get into Radix game development right away. Radix was powered by the **Radix Video Adapter (RaVA)** chip. Programming a Radix game largely involves interacting with the registers in memory that speak to this chip.
