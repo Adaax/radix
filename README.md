@@ -6,7 +6,7 @@ Radix was a home video game console released in 1982 by Dynamic Solutions (Dysol
 
 Radix entered the market just as a glut of competing consoles were stuffing store shelves and confusing customers. The North American video game crash was looming, and Radix would disappear when the hammer fell, along with Dysol itself.
 
-Radix was a budget entry into the console universe, meaning that they did not acquire licenses for any of the big arcade games of the time (a common practice among competitors). As such, all Radix games were developed in-house, and as such it features unique titles that were never made for any other system.
+Radix was a budget entry into the console universe, meaning that they did not acquire licenses for any of the big arcade games of the time (a common practice among competitors). As such, all Radix games were developed in-house, so the console features a variety of unique titles that were never made for any other system.
 
 ![Radix Screenshot](/screen2.png)
 
@@ -37,3 +37,10 @@ Radix Studio is written in Javascript, using the [NW.js](https://nwjs.io/) frame
 For **zip** files, extract to any directory on your PC. Click **rs.bat** to launch Radix Studio.
 
 The emulator can be launched from within Radix Studio.
+
+## Quickstart
+If you would like to get up and running with a sample game right away, follow these steps:
+
+* Install Radix Studio and Emulator. Click on **rs.bat** to launch Radix Studio.
+
+* Click the ![Open Button](lib/openbutton.png) **Open** button on the toolbar.
