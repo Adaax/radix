@@ -51,6 +51,6 @@ If you would like to get up and running with a sample game right away, follow th
 
 ![Radix Emulator Screenshot](/screen7.png)
 
-* The default for the **1** button in the **Z** key on the keyboard. Press this to start the game.
+* The default for the **"1"** button is the **Z** key on the keyboard. Press this to start the game.
 
-* To play **Rogue A.I.**, use the left/right arrow keys to move the player. Press **X** to jump. Press the up/down keys to climb ladders. Press down to duck.
+* To play **Rogue A.I.**, use the left/right arrow keys to move the player. Press **X** (i.e. the **"2"** button) to jump. Press the up/down keys to climb ladders. Press down to duck.
