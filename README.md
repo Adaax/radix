@@ -41,16 +41,16 @@ The emulator can be launched from within Radix Studio.
 ## Quickstart
 If you would like to get up and running with a sample game right away, follow these steps:
 
-* Install Radix Studio and Emulator. Click on **rs.bat** to launch Radix Studio.
+1. Install Radix Studio and Emulator. Click on **rs.bat** to launch Radix Studio.
 
-* Click the ![Open Button](lib/openbutton_back.png) **Open** button on the toolbar.
+1. Click the ![Open Button](lib/openbutton_back.png) **Open** button on the toolbar.
 
-* Navigate to the **code** folder, and open **rogueai.asm**.
+1. Navigate to the **code** folder, and open **rogueai.asm**.
 
-* Click the ![Open Button](lib/playbutton_back.png) **Play** button on the toolbar to launch the Emulator. The following window should open:
+1. Click the ![Open Button](lib/playbutton_back.png) **Play** button on the toolbar to launch the Emulator. The following window should open:
 
 ![Radix Emulator Screenshot](/screen7.png)
 
-* The default for the **"1"** button is the **Z** key on the keyboard. Press this to start the game.
+1. The default for the **"1"** button is the **Z** key on the keyboard. Press this to start the game.
 
-* To play **Rogue A.I.**, use the left/right arrow keys to move the player. Press **X** (i.e. the **"2"** button) to jump. Press the up/down keys to climb ladders. Press down to duck.
+1. To play **Rogue A.I.**, use the left/right arrow keys to move the player. Press **X** (i.e. the **"2"** button) to jump. Press the up/down keys to climb ladders. Press down to duck.
