@@ -43,4 +43,4 @@ If you would like to get up and running with a sample game right away, follow th
 
 * Install Radix Studio and Emulator. Click on **rs.bat** to launch Radix Studio.
 
-* Click the ![Open Button](lib/openbutton.png) **Open** button on the toolbar.
+* Click the ![Open Button](lib/openbutton_back.png) **Open** button on the toolbar.
