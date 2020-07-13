@@ -47,7 +47,7 @@ If you would like to get up and running with a sample game right away, follow th
 
 * Navigate to the **code** folder, and open **rogueai.asm**.
 
-* Click the ![Open Button](lib/playbutton_back.png) **Play** button on the toolbar to launch the Emulator, as shown below:
+* Click the ![Open Button](lib/playbutton_back.png) **Play** button on the toolbar to launch the Emulator. The following window should open:
 
 ![Radix Emulator Screenshot](/screen7.png)
 
