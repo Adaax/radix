@@ -56,4 +56,4 @@ If you would like to get up and running with a sample game right away, follow th
 * To play **Rogue A.I.**, use the left/right arrow keys to move the player. Press **X** (i.e. the **"2"** button) to jump. Press the up/down keys to climb ladders. Press down to duck.
 
 ## Disclaimer
-As you might have already guessed, Radix is a work of fiction. It falls into the category of what is now being called the "fantasy console". It was inspired by consoles and platforms such as the Atari 2600, Nintendo Entertainment System, and Commodore 64. It really does run off 6502 assembly language as it was implemented in these machines. The RaVA video chip
+As you might have already guessed, Radix is a work of fiction. It falls into the category of what is now being called the "fantasy console". It was inspired by consoles and platforms such as the Atari 2600, Nintendo Entertainment System, and Commodore 64. It really does run off 6502 assembly language as it was implemented in these machines, albeit via a software interpreter instead of the "bare metal" hardware.
