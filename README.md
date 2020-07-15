@@ -67,4 +67,4 @@ Radix has two major inspirations. The first is the fantasy console scene, which 
 ## Contact Info
 * Matthew Wells
 	* mattwells.j@gmail.com
-	* ![@10CLS](https://twitter.com/10CLS)
+	* [@10CLS](https://twitter.com/10CLS)
