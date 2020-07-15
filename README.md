@@ -65,6 +65,6 @@ Radix Studio can be used to develop games, demos, and other programs in 6502 ass
 Radix has two major inspirations. The first is the fantasy console scene, which came to the fore with the release of the Pico-8. The second is the homebrew programming scenes that have emerged around older consoles such as the Atari 2600. Radix seeks to bridge the gap between these movements by combining a retro software console with an assembly-based development language.
 
 ## Contact Info
-Matthew Wells
-mattwells.j@gmail.com
-@10CLS
+* Matthew Wells
+	* mattwells.j@gmail.com
+	* ![@10CLS](https://twitter.com/10CLS)
